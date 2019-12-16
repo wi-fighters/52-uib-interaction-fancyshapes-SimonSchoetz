@@ -19,3 +19,7 @@ section {
     width: auto;
     clip-path: polygon(20% 0%, 40% 50%, 20% 100%, 0% 50%);
 }
+
+.task-three {
+    transform: rotate(180deg);
+}
