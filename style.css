@@ -17,5 +17,5 @@ section {
 .task-two img {
     height: 20vw;
     width: auto;
-    transform ;
+    clip-path: polygon(20% 0%, 40% 50%, 20% 100%, 0% 50%);
 }
