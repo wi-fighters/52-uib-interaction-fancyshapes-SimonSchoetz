@@ -13,3 +13,9 @@ section {
 .task-one:after {
     content: "... The End.";
 }
+
+.task-two img {
+    height: 20vw;
+    width: auto;
+    transform ;
+}
