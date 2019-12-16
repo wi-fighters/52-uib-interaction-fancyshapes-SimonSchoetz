@@ -17,3 +17,6 @@
 * Rotate the image 180 degrees to show the smiley upside-down.
 
 ![reference-image](/assets/reference-image.png)
+
+-----
+In case you lose the link: https://github.com/wi-fighters/52-uib-interaction-fancyshapes-SimonSchoetz
